@@ -1,7 +1,7 @@
 # t8ke.github.io
 
-[link2doc](https://github.com/t8ke/t8ke.github.io/raw/master/Split%20Template.xlsm)
 
+-----
 
 github.io :: t8ke
 -   [Review #1109 -- Stolen American Whiskey](https://t8ke.review/review-1109-stolen-american-whiskey/ "Review #1109 -- Stolen American Whiskey")
